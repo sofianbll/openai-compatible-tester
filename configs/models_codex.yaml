@@ -1,0 +1,5 @@
+profiles:
+  - name: codex-proxy
+    chat_model: gpt-6-astra
+    responses_model: gpt-6-astra
+    extra: {}
